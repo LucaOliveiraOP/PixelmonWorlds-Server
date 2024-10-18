@@ -1,0 +1,35 @@
+[07:05:30] [Server thread/INFO] [/]: [ProtocolLib] The updater found an update: 5.2.0 (Running 5.2.0-SNAPSHOT-679). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[13:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13:12:55] [Server thread/INFO] [net.minecrell.serverlistplus.bukkit.BukkitPlugin/]: [ServerListPlus] Disabling ServerListPlus v3.5.0
+[13:12:55] [Server thread/INFO] [net.minecrell.serverlistplus.bukkit.BukkitPlugin/]: [ServerListPlus] ServerListPlus v3.5.0 disabled.
+[13:12:55] [Server thread/INFO] [fr.xephi.authme.AuthMe/]: [AuthMe] Disabling AuthMe v5.6.0-beta2-b2453
+[13:12:55] [Server thread/INFO] [fr.xephi.authme.AuthMe/]: [AuthMe] Waiting for 0 tasks to finish
+[13:12:55] [Server thread/INFO] [fr.xephi.authme.AuthMe/]: [AuthMe] AuthMe 5.6.0-beta2-b2453 disabled!
+[13:12:55] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib/]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[13:12:55] [Server thread/INFO] [EssentialsChat/]: Disabling EssentialsChat v2.21.0-dev+107-7b02d22
+[13:12:55] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.21.0-dev+107-7b02d22
+[13:12:55] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.21.0-dev+107-7b02d22
+[13:12:55] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Economy] Essentials Economy unhooked.
+[13:12:55] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Disabling Vault v1.7.3-b131
+[13:12:55] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Disabling LuckPerms v5.4.102
+[13:12:55] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Starting shutdown process...
+[13:12:55] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Closing storage...
+[13:12:55] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Goodbye!
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[ultra_space]'/pixelmon:ultra_space
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ultra_space): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[drowned_world]'/pixelmon:drowned_world
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (drowned_world): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (ultra_space): All chunks are saved
+[13:12:55] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (drowned_world): All chunks are saved
